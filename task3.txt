@@ -1,0 +1,21 @@
+Agile and DevOps are two different approaches to software development.
+Agile is an iterative approach that focuses on collaboration, customer feedback, and small, rapid releases2
+It is essentially about giving software developers a shared set of principles to drive 
+decision-making and allow for more responsiveness to change1.DevOps is a practice of bringing development and operations teams
+DevOps is a practice of bringing development and operations teams together234.
+It emphasizes more collaboration between developers and IT operations3.
+DevOps includes all aspects of the software delivery process, from idea generation to delivery and feedback
+
+
+
+
+
+
+
+###################################################################################
+DevOps is the next evolution of agile methodologies.
+A cultural shift that brings development and operations teams together.
+DevOps is a practice that involves a cultural change, new management principles, and technology tools that help to implement best practices.
+When it comes to a DevOps toolchain, organizations should look for tools that improve collaboration, reduce context-switching, introduce automation, and leverage observability and monitoring to ship better software, faster. 
+
+There are two primary approaches to a DevOps toolchain: an all-in-one or open toolchain. An all-in-one DevOps solution provides a complete solution that usually doesn’t integrate with other third-party tools. An open toolchain can be customized for a team’s needs with different tools. Atlassian believes an open toolchain is the best approach since it can be customized with best-of-breed tools to the unique needs of an organization. Using this approach often leads to increased time efficiency and reduces time to market.
